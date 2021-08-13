@@ -299,7 +299,7 @@
 			},
 			"datalakeAccountName": {
 				"type": "string",
-				"defaultValue": " mstsgakzgnn4apogpoc"
+				"defaultValue": "mstsgakzgnn4apogpoc"
 			}
 		},
 		"folder": {
