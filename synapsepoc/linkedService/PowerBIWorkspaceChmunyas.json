@@ -1,0 +1,11 @@
+{
+	"name": "PowerBIWorkspaceChmunyas",
+	"properties": {
+		"annotations": [],
+		"type": "PowerBIWorkspace",
+		"typeProperties": {
+			"workspaceID": "b0f6cc89-fe83-4f20-b2d3-87f904336840",
+			"tenantID": "72f988bf-86f1-41af-91ab-2d7cd011db47"
+		}
+	}
+}
